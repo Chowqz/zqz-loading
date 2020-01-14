@@ -22,6 +22,7 @@ show方法的参数
 title|提示信息|String|-|''
 mask|是否显示透明蒙层，防止触摸穿透|Boolean|true/false|false
 ``` bash
+
 // 显示加载动画
 Loading.show({
     title: "数据加载中",
